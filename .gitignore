@@ -1,7 +1,9 @@
 .envrc
 .cache
 
-src/github.com/*
+
 pkg/*
+src/github.com/*
+src/gopkg.in/*
 
 *.*~
