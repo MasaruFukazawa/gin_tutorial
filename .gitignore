@@ -1,2 +1,7 @@
 .envrc
+.cache
+
+src/github.com/*
+pkg/*
+
 *.*~
